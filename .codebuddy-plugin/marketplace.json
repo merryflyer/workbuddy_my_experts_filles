@@ -1,0 +1,12 @@
+{
+  "name": "my-experts",
+  "description": "my-experts marketplace (auto-generated)",
+  "plugins": [
+    {
+      "name": "qa-content-organizer",
+      "source": "./plugins/qa-content-organizer",
+      "description": "Transforms any text or file content into parallel Q&A pairs in Markdown with zero information loss",
+      "version": "1.0.0"
+    }
+  ]
+}
